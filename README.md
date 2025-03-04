@@ -46,7 +46,9 @@ An Alcohol Delivery Script is a pre-built software solution designed to help ent
 <h2><b>Key Features to Look for in an Alcohol Delivery Script</b></h2>
 When choosing an alcohol delivery script, it’s important to look for features that enhance the user experience and streamline operations. Here are nine essential features to consider:
 <h3><b>1. User-Friendly Interface</b></h3>
-A clean and intuitive interface is crucial for attracting and retaining customers. The app should be easy to navigate, with clear categories and search options.
+
+![Home-pizza-03-04-2025_12_34_AM](https://github.com/user-attachments/assets/6cafa264-88e8-4dbd-93dd-5afad2905320)
+<p>A clean and intuitive interface is crucial for attracting and retaining customers. The app should be easy to navigate, with clear categories and search options.</p>
 <h3><b>2. Advanced Search and Filters</b></h3>
 Customers should be able to search for specific brands, types of alcohol (e.g., beer, wine, spirits), or price ranges. Filters make it easier for users to find exactly what they’re looking for.
 <h3><b>3. Real-Time Order Tracking</b></h3>

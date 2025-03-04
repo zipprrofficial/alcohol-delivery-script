@@ -15,6 +15,8 @@ For entrepreneurs, liquor delivery platforms offer a profitable business model w
 <h2><b>What is an Alcohol Delivery Script?</b></h2>
 An Alcohol Delivery Script is a pre-built software solution designed to help entrepreneurs launch their own liquor delivery platforms. It serves as the foundation for creating a fully functional app or website that connects customers, store owners, and delivery personnel.
 <h3><b>How Does It Work?</b></h3>
+![alcohol delivery banner image](https://github.com/user-attachments/assets/7308d513-1748-42be-8744-d8dfc5585ef2)
+
 The script typically includes three main components:
 <ul>
   <li>
